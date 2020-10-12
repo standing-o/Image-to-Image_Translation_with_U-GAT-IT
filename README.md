@@ -1,6 +1,6 @@
 # Image-to-Image_translation_with_U-GAT-IT (20200902 ~ 20201008)  
 - This project is designed to implement U-GAT-IT by using GHIBLI character image dataset.  
-- This project is maintained by 최우철, 조한별, 허지혜, 오서영, 최연석, 이수빈, 강수연
+- This project is maintained by [최우철](https://github.com/choiwoochul), [조한별](https://github.com/STAR3073), [허지혜](https://github.com/jihyeheo), [이수빈](https://github.com/I-SUBIN), 오서영, [최연석](https://github.com/YeonSeok-Choi), [강수연](https://github.com/Kangsooyeon)
 
 [[Presentation]](https://github.com/OH-Seoyoung/Image-to-Image_translation_with_U-GAT-IT/blob/master/presentation.pdf)  
 
