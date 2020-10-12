@@ -4,21 +4,25 @@
 
 [[Presentation]](https://github.com/OH-Seoyoung/Image-to-Image_translation_with_U-GAT-IT/blob/master/presentation.pdf)  
 
-## Dataset  
+## Dataset
+#### Charactre Image
 - We capture about 1000 GHIBLI female character images in 7 Ghibli studio movies.  
-<div align="center">
+#### Female Image
+- selfie2anime dataset from https://github.com/taki0112/UGATIT  
+<div align="center">  
 <img src="https://github.com/OH-Seoyoung/Image-to-Image_translation_with_U-GAT-IT/blob/master/Figure/dataset.jpg" width="65%"> <br>
 </div>
 
 ## Architecture  
 #### Generator and Discriminator  
 <div align="center">
-<img src="https://github.com/OH-Seoyoung/Image-to-Image_translation_with_U-GAT-IT/blob/master/Figure/architecture1.jpg" width="65%">
-<img src="https://github.com/OH-Seoyoung/Image-to-Image_translation_with_U-GAT-IT/blob/master/Figure/architecture2.jpg" width="65%"> <br>
-</div>
+<img src="https://github.com/OH-Seoyoung/Image-to-Image_translation_with_U-GAT-IT/blob/master/Figure/architecture1.jpg" width="50%">
+<img src="https://github.com/OH-Seoyoung/Image-to-Image_translation_with_U-GAT-IT/blob/master/Figure/architecture2.jpg" width="50%"> <br>
+</div>  
+
 #### Loss Function  
 <div align="center">
-<img src="https://github.com/OH-Seoyoung/Image-to-Image_translation_with_U-GAT-IT/blob/master/Figure/architecture3.jpg" width="65%"> <br>
+<img src="https://github.com/OH-Seoyoung/Image-to-Image_translation_with_U-GAT-IT/blob/master/Figure/architecture3.jpg" width="50%"> <br>
 </div>  
 
 ## Results  
