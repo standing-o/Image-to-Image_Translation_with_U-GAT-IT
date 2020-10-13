@@ -30,7 +30,8 @@
 <img src="https://github.com/OH-Seoyoung/Image-to-Image_translation_with_U-GAT-IT/blob/master/Figure/result.jpg" width="65%"> <br>
 </div>  
 
-## Reference
+## Reference  
+'''
 - Original code : https://github.com/taki0112/UGATIT
 - Kim, Junho, et al. "U-gat-it: unsupervised generative attentional networks with adaptive layer-instance normalization for image-to-image translation." arXiv preprint arXiv:1907.10830 (2019).
-
+'''
