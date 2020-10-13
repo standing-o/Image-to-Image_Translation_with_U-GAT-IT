@@ -31,7 +31,7 @@
 </div>  
 
 ## Reference  
-'''
+```
 [1] Original code : https://github.com/taki0112/UGATIT
 [2] Kim, Junho, et al. "U-gat-it: unsupervised generative attentional networks with adaptive layer-instance normalization for image-to-image translation." arXiv preprint arXiv:1907.10830 (2019).
-'''
+```
