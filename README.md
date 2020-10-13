@@ -5,7 +5,7 @@
 [[Presentation]](https://github.com/OH-Seoyoung/Image-to-Image_translation_with_U-GAT-IT/blob/master/presentation.pdf)  
 
 ## Dataset
-#### Charactre Images
+#### Character Images
 - We capture about 1000 GHIBLI female character images in 7 Ghibli studio movies.  
 #### Female Images
 - selfie2anime dataset from https://github.com/taki0112/UGATIT  
