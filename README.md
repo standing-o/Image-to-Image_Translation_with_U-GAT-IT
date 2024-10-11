@@ -1,4 +1,4 @@
-# Image-to-Image translation with U-GAT-IT
+# Image-to-Image Translation with U-GAT-IT
 - This project is designed to implement U-GAT-IT by using GHIBLI character image dataset. 
 - Baseline GAN architecture study, U-GAT-IT paper review and implementation  
 - Sep. 2, 2020 ~ Oct. 8, 2020
